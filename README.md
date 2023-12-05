@@ -34,7 +34,7 @@ This is a simple chat application built using Flask and Flask-SocketIO. It allow
 1. Run the application:
 
    ```bash
-   python app.py
+   python3 main.py
    ```
 
 2. Open your web browser and go to [http://localhost:5000](http://localhost:5000).
