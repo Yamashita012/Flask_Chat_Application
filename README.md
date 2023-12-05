@@ -14,7 +14,7 @@ This is a simple chat application built using Flask and Flask-SocketIO. It allow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flask-chat-app.git
+   git clone https://github.com/yamashita012/flask-chat-app.git
    ```
 
 2. Change into the project directory:
